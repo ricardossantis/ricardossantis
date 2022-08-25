@@ -1,5 +1,6 @@
-### Hi there 👋
+[![MasterHead](https://github.com/ricardossantis/ricardossantis/blob/main/header.png)](https://github.com/ricardossantis)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardossantis)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ricardossantis/ricardossantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
